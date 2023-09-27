@@ -1,0 +1,105 @@
+PODS:
+  - Alamofire (5.8.0)
+  - BlueCryptor (1.0.32)
+  - BlueECC (1.2.5)
+  - BlueRSA (1.0.200)
+  - HandyJSON (5.0.2)
+  - Kingfisher (7.9.1)
+  - KituraContracts (1.2.1):
+    - LoggerAPI (~> 1.7)
+  - LoggerAPI (1.9.200):
+    - Logging (~> 1.1)
+  - Logging (1.4.0)
+  - LookinServer (1.1.7):
+    - LookinServer/Core (= 1.1.7)
+  - LookinServer/Core (1.1.7)
+  - Masonry (1.1.0)
+  - MJRefresh (3.7.5)
+  - MMKV (1.3.1):
+    - MMKVCore (~> 1.3.1)
+  - MMKVCore (1.3.1)
+  - OpenSSL-Universal (1.1.2200)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SnapKit (5.6.0)
+  - SwiftJWT (3.6.200):
+    - BlueCryptor (~> 1.0)
+    - BlueECC (~> 1.1)
+    - BlueRSA (~> 1.0)
+    - KituraContracts (~> 1.2)
+    - LoggerAPI (~> 1.7)
+  - SwiftyJSON (5.0.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - Kingfisher
+  - LookinServer
+  - Masonry
+  - MJRefresh
+  - MMKV
+  - OpenSSL-Universal
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+  - SwiftJWT
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BlueCryptor
+    - BlueECC
+    - BlueRSA
+    - HandyJSON
+    - Kingfisher
+    - KituraContracts
+    - LoggerAPI
+    - Logging
+    - LookinServer
+    - Masonry
+    - MJRefresh
+    - MMKV
+    - MMKVCore
+    - OpenSSL-Universal
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftJWT
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  BlueCryptor: b0aee3d9b8f367b49b30de11cda90e1735571c24
+  BlueECC: 0d18e93347d3ec6d41416de21c1ffa4d4cd3c2cc
+  BlueRSA: dfeef51db96bcc4edec654956c1581adbda4e6a3
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  KituraContracts: e845e60dc8627ad0a76fa55ef20a45451d8f830b
+  LoggerAPI: ad9c4a6f1e32f518fdb43a1347ac14d765ab5e3d
+  Logging: beeb016c9c80cf77042d62e83495816847ef108b
+  LookinServer: 4ce0469b066871525611d009d8d16a7a50c23491
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  MMKV: 5a07930c70c70b86cd87761a42c8f3836fb681d7
+  MMKVCore: e50135dbd33235b6ab390635991bab437ab873c0
+  OpenSSL-Universal: 6e1ae0555546e604dbc632a2b9a24a9c46c41ef6
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftJWT: 88c412708f58c169d431d344c87bc79a87c830ae
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: cb183e1b1ca2281d847d03221514c2f86da0727c
+
+COCOAPODS: 1.12.1
